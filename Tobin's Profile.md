@@ -9,7 +9,7 @@
 ---
 ### Certifications
 
-![1772224266585]
+![1772224266585](https://github.com/thardy27/thardy27/blob/main/Certifications.png)
 
 
 
