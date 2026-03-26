@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Tobin👋
 
-<!--
-**thardy27/thardy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Helping people make sense of their data
+- **Data Analytics Consultant** @[The Information Lab](https://www.theinformationlab.co.uk)
+- Skills: Data Analysis, Data Visualisation, Tableau, Alteryx, PowerBI, SQL
+ 
+---
+### Certifications
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+---
+### Projects
+
+| Name | Project Description | Tools |
+| -- | -- | -- |
+| -- | -- | -- |
+
+---
+### Tableau Visualisations
