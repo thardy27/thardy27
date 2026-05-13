@@ -16,6 +16,8 @@
     <img src="https://images.credly.com/size/220x220/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="15%">
   <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=1dUJgzQiTHKHbaXoOLEfonZIpH9qZHsSJA0cyZ6U/g6/DaiDH+1pDZc8Y78GnpZf">
     <img src="https://www.tableau.com/sites/default/files/2025-07/2025-04_Badge_SF-Certified_Tab-Data-Analyst_High-Res.png" width="15%">
+   <a href="https://www.credly.com/badges/62f8ca2e-2aeb-4c10-aab3-26f60d7a8547/public_url">
+    <img src="https://images.credly.com/size/220x220/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="15%">
   </a>
 </div>
 <br/>
