@@ -44,15 +44,20 @@
 
 <div align="center">
  
-
+[Teaching Tableau: Demystyfing Chart Types](https://public.tableau.com/views/HighlightvsHeatMap/TitlePage?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 [NY KNICKS Road to Immortality](https://public.tableau.com/views/NYKNICKSRoadtoImmortality/KnicksPlayoffJourney?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
-[DS55 Sneeze Tracker](https://public.tableau.com/views/SneezeTrackerDBWeek/SneezeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
-[UK Postcode Regions](https://public.tableau.com/views/UKPostcodeRegions/UKRegionsMap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
-[#WOW2026.W10 | Baseline YoY Revenue](https://public.tableau.com/views/WOW2026_W10_TH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
-[MLB Hall of Famers Ranks](https://public.tableau.com/views/WOW_2022_W22_TH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
+[DS55 Sneeze Tracker](https://public.tableau.com/views/SneezeTrackerDBWeek/SneezeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  <br>
+[UK Postcode Regions](https://public.tableau.com/views/UKPostcodeRegions/UKRegionsMap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+[#WOW2026.W10 | Baseline YoY Revenue](https://public.tableau.com/views/WOW2026_W10_TH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br>
 
 </div>
 <div align="center">
+
+ <a href="https://public.tableau.com/views/HighlightvsHeatMap/TitlePage?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img src="https://public.tableau.com/static/images/Hi/HighlightvsHeatMap/TitlePage/4_3.png" width="32%">
+</a>
+
   <a href="https://public.tableau.com/views/NYKNICKSRoadtoImmortality/KnicksPlayoffJourney?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
   <img src="https://public.tableau.com/static/images/NY/NYKNICKSRoadtoImmortality/KnicksPlayoffJourney/4_3.png" width="32%">
 </a>
@@ -65,14 +70,9 @@
   <img src="https://public.tableau.com/static/images/UK/UKPostcodeRegions/UKRegionsMap/4_3.png" width="32%"/>
 </a>
 
-<br>
-
 <a href="https://public.tableau.com/views/WOW2026_W10_TH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
   <img src="https://public.tableau.com/static/images/WO/WOW2026_W10_TH/Dashboard1/4_3.png" width="32%">
 </a>
 
-<a href="https://public.tableau.com/views/WOW_2022_W22_TH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-  <img src="https://public.tableau.com/static/images/WO/WOW_2022_W22_TH/Dashboard1/4_3.png" width="32%">
-</a>
 </div>
 <br>
